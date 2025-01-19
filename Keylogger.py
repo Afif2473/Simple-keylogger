@@ -171,6 +171,10 @@ def log_key():
     if data and 'key' in data:
         print(f"Key pressed: {data['key']}")
     return '', 204
+    
+def add_ngrok_header(response):
+    response.headers["ngrok-skip-browser-warning"] = "true"
+    return response
 
 if __name__ == '__main__':
     # Start Flask server in a background thread
