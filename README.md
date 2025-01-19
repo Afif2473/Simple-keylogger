@@ -1,8 +1,10 @@
 **This is a simple keylogging simulation/example for education purposes**
 
+
 CSC4500 : Computer Security
 
 Project Group : Unknown2473
+
 
 
 **STEPS TO PERFORM**
@@ -29,7 +31,7 @@ Project Group : Unknown2473
    
 
 8. link will redirect to this "clone bank page" and try insert dummy credentials
-9. 
+
    ![image](https://github.com/user-attachments/assets/eea3b691-6c50-468b-ad01-a372712fbe39)
 
    
