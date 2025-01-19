@@ -27,6 +27,8 @@ def index():
             <h1>Keylogger Test Page</h1>
             <p>Type something here:</p>
             <input type="text" />
+            <p2>password</p2>
+            <input type="text"/>
         </body>
         </html>
     '''
