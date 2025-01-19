@@ -14,6 +14,10 @@ Project Group : Unknown2473
 4.  Change directory to Simple-keylogger
    ![image](https://github.com/user-attachments/assets/3fd81add-a853-4691-aacb-d8df5b3f0c28)
 
+5. Create static folder and move image.png to static folder
+   ![image](https://github.com/user-attachments/assets/5c250493-8c94-461c-b163-91aa56251401)
+
+
 
 6. run keylogger.py and share the link circled red for demonstration
    ![image](https://github.com/user-attachments/assets/1f3f781e-17bb-433e-a23d-392b8d4ed6ba)
