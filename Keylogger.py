@@ -27,7 +27,7 @@ def index():
             <h1>Welcome To Unknown2473Bank</h1>
             <div class="login-box">
                 <!-- Icon -->
-                <img src="/home/kali/Simple-keylogger/image.png" alt="User Icon" />
+                <img src="/static/image.png" alt="User Icon" />
 
                 <!-- Username Input -->
                 <p>Username</p>
