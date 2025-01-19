@@ -12,7 +12,8 @@ Project Group : Unknown2473
    
    
 4.  Change directory to Simple-keylogger
-   ![image](https://github.com/user-attachments/assets/3fd81add-a853-4691-aacb-d8df5b3f0c28)
+   ![image](https://github.com/user-attachments/assets/2e0bc0fd-4efe-4b7f-baaf-3a6b58b6a0f5)
+
 
 5. Create static folder and move image.png to static folder
    ![image](https://github.com/user-attachments/assets/5c250493-8c94-461c-b163-91aa56251401)
