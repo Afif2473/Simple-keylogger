@@ -176,7 +176,8 @@ if __name__ == '__main__':
     # Start Flask server in a background thread
     port = 8080
     print("Starting Flask server...")
-    public_url = ngrok.connect(port)  # Expose the server to the internet
+    public_url = public_url = ngrok.connect(addr=port, headers={"User-Agent": "custom-agent"})
+    #ngrok.connect(port)  # Expose the server to the internet
     print(f"Public URL: {public_url}")
     
     # Run the Flask app
