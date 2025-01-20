@@ -5,8 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    def index():
-    # Serve the congratulations page
+    # Serve the lottery page
     return render_template('FakeLottery.html')
 
 @app.route('/billing')
