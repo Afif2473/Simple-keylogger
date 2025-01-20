@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, render_template
 from pyngrok import ngrok  # Requires pyngrok library
 
 app = Flask(__name__)
