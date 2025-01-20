@@ -11,32 +11,30 @@ Project Group : Unknown2473
 1. Hop into kali linux
 2. enter root and transfer this repository
    
-   ![image](https://github.com/user-attachments/assets/81fe07b6-48ef-4f48-bf28-c6fb4a63555b)
+   ![WhatsApp Image 2025-01-20 at 11 26 21_49715b32](https://github.com/user-attachments/assets/977f6ae1-7442-450c-826b-b2805e5e88b2)
    
    
-4. change directory to Simple-keylogger
+4. change directory to Simple-keylogger and run Updt_Keylogger.py
+   share the red circled link for phishing demonstration.
    
-   ![image](https://github.com/user-attachments/assets/2e0bc0fd-4efe-4b7f-baaf-3a6b58b6a0f5)
+   ![WhatsApp Image 2025-01-20 at 11 28 59_880664e0](https://github.com/user-attachments/assets/b9257c31-a73f-4eab-99b9-40d7d86a5800)
 
 
-6. create static folder and move image.png to static folder
+5. link will redirect to this page
    
-   ![image](https://github.com/user-attachments/assets/5c250493-8c94-461c-b163-91aa56251401)
+   ![WhatsApp Image 2025-01-20 at 11 25 13_ca11b29b](https://github.com/user-attachments/assets/2d326323-aac2-40e8-8997-0af1c917ce76)
 
 
-
-7. run Keylogger.py and share the link circled red for demonstration
+   click next and it will redirect to this page
    
-   ![image](https://github.com/user-attachments/assets/1f3f781e-17bb-433e-a23d-392b8d4ed6ba)
-   
+   ![WhatsApp Image 2025-01-20 at 11 24 44_782502c6](https://github.com/user-attachments/assets/aa780061-96f8-475e-be1c-3652e41c5434)
 
-8. link will redirect to this "clone bank page" and try insert dummy credentials
-
-   ![image](https://github.com/user-attachments/assets/eea3b691-6c50-468b-ad01-a372712fbe39)
 
    
-11. Credentials will be logged in kali linux terminal
-   ![image](https://github.com/user-attachments/assets/dbe09f3e-0ade-4b73-89c6-5cad4546d880)
+6. Credentials will be logged in kali linux terminal
+   
+   ![WhatsApp Image 2025-01-20 at 11 27 24_309076d7](https://github.com/user-attachments/assets/48df7f38-a35b-42f5-bb60-33858b7adf75)
+
 
 
 
